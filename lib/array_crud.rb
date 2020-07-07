@@ -23,7 +23,8 @@ def remove_element_from_start_of_array(array)
 end
 
 def retrieve_element_from_index(array, index_number)
-array = []
+  array = [9,8,"am",6,5,4,3,2,1,0]
+   index_number = array[2]
 end
 
 
